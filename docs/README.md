@@ -12,9 +12,11 @@
 
 ---
 
-## 保有スキル
+## 概要
 
-- Vue.js + Firebaseを用いたフロントエンド開発
+- 実務未経験
+- 独学でフロントエンドの知識を勉強
+- 勉強内容は絞ったほうがいいと考え、サーバレスなFirebaseを利用し、Vue.jsを中心とした開発に集中。
 
 ---
 
@@ -31,6 +33,20 @@
 - Nuxt.js
 - Firebase
 
+### 作ったもの
+
+- [Log](https://portfolio-studyapp.web.app/)
+  - Vue.js + Firebase
+  - ユーザーごとにデータ管理。
+  - vue-chartでデータ表示、calendarで日にち毎にデータを同期
+
+- [tic toc toe](https://elastic-mayer-48adcf.netlify.app/)
+  - まるばつゲーム。
+  - JavaScriptで自作。
+
+- [StayWorld](https://brave-cori-566453.netlify.app/)
+- udemyの講座より作成。
+- アニメーションとレスポンシブ対応
 ---
 
 ## 職務経歴詳細

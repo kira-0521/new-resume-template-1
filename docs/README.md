@@ -8,7 +8,6 @@
 |生年月日|1996/05/21|
 |Twitter|@progLog88|
 |Qiita|@kira-0521|
-|GitHub|https://github.com/kira-0521?tab=repositories|
 
 ---
 

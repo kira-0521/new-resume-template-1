@@ -46,8 +46,9 @@
   - アニメーションとレスポンシブ対応
 
 - [Log](https://portfolio-studyapp.web.app/)
-  - Vue.js + Firebase(firestore + auth)
+  - [概要・気づき(Qiita)](https://qiita.com/kira-0521/items/4388c979846fb99c2ea8)
   - ユーザーごとにデータ管理。
+  - Vue.js + Firebase(firestore + auth)
   - vue-chartでデータ表示、calendarで日にち毎にデータを同期
 
 ---
